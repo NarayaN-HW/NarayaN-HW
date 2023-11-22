@@ -3,8 +3,6 @@
 <h3 align="center">I'm a 22-year-old creative with a passion for Technology, Manual-Automation Test and Penetration tester. My specialties lie in Automation Selenium Web-Driver Framework Testing, Security Testing, Linux Kernel Development, SE Grid, and Web Development. I'm driven by my desire to craft visually pleasing yet functional experiences for users, combining technical know-how with artistic flair about the testing world, lastly to become -HW</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/NarayaN-HW/NarayaN-HW/assets/151113796/ecf9f3f0-e27e-4abf-954c-cea163545789">
 
-![n-slim](https://github.com/NarayaN-HW/NarayaN-HW/assets/151113796/fb2e78a8-78e0-4017-b9f2-71e6e81763b0)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayan-hw&label=Profile%20views&color=0e75b6&style=flat" alt="narayan-hw" /> </p>
 
