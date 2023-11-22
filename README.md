@@ -1,7 +1,7 @@
 [![MasterHead](https://techbullion.com/wp-content/uploads/2023/03/Software-Development.webp)](https://narayan-hw.io)
 <h1 align="center">Hi 👋, I'm NARAYAN LAXMI PATIL</h1>
 <h3 align="center">I'm a 22-year-old creative with a passion for Technology, Manual-Automation Test and Penetration tester. My specialties lie in Automation Selenium Web-Driver Framework Testing, Security Testing, Linux Kernel Development, SE Grid, and Web Development. I'm driven by my desire to craft visually pleasing yet functional experiences for users, combining technical know-how with artistic flair about the testing world, lastly to become -HW</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1yS7wCztiAQ3bQ7SXuvngNdDM5aUbqof9/view">
+<img align="right" alt="Coding" width="400" src="NarayaN-HW/n-slim.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayan-hw&label=Profile%20views&color=0e75b6&style=flat" alt="narayan-hw" /> </p>
 
