@@ -27,6 +27,13 @@
 -  4 💬 Instagram :  <a href="https://instagram.com/narayan_official01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narayan_official01" height="40" width="150" /></a>
 </p>
 
+###
+
+<img align="right" height="300" width="300" src="https://media.tenor.com/wLv-ekPYn7UAAAAd/luffy-zoro.gif"  />
+
+###
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
