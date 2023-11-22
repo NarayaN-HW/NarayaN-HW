@@ -21,10 +21,10 @@
 
 <h3 align="left">Social media:</h3>
 <p align="left">
--  1 💬 Twitter username =<a href="https://twitter.com/shiv_npatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiv_npatil" height="30" width="120" /></a> </br>
--  2 💬 LinkedIn username =<a href="https://linkedin.com/in/narayan patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narayan patil" height="30" width="120" /></a> </br>
--  3 💬 Facebook username =<a href="https://fb.com/n patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n patil" height="30" width="120"" /></a> </br>
--  4 💬 Instagram username =<a href="https://instagram.com/narayan_official01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narayan_official01" height="30" width="150" /></a>
+-  1 💬 Twitter username =<a href="https://twitter.com/shiv_npatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiv_npatil" height="40" width="120" /></a> </br>
+-  2 💬 LinkedIn username =<a href="https://linkedin.com/in/narayan patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narayan patil" height="40" width="120" /></a> </br>
+-  3 💬 Facebook username =<a href="https://fb.com/n patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n patil" height="40" width="120"" /></a> </br>
+-  4 💬 Instagram username =<a href="https://instagram.com/narayan_official01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narayan_official01" height="40" width="150" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
