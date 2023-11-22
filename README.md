@@ -29,10 +29,11 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/NarayaN-HW/NarayaN-HW/assets/151113796/0972c5e1-6f5d-48c6-a0b6-f7c07e54fcd5">
-![](https://github-readme-stats.vercel.app/api?username=Narayan-hw&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+ ![](https://github-readme-stats.vercel.app/api?username=Narayan-hw&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Narayan-hw&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-hw&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<img align="right" alt="Coding" width="400" src="https://github.com/NarayaN-HW/NarayaN-HW/assets/151113796/0972c5e1-6f5d-48c6-a0b6-f7c07e54fcd5">
 
 # The **NARAYAN LAXMI PATIL** </br>
 ##"    Software Tester - Automation Testing | Web Development| Scrum Project | Selenium - Web-Driver | BDD Cucumber | TestNG | Katalon Recorder | POM | JENKINS | JIRA | Maven | Selenium Grid | Git- code versioning tool | API | CyberSecurity - Linux Kernel Development | Network Security | DDOS Mitigation | Phishing Defense | Information Security | Penetration Testing.    "
@@ -77,5 +78,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="100" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="40"/> </a> </br></br>
  </p>
+ 
+
  
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
