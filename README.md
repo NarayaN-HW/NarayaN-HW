@@ -3,6 +3,7 @@
 <h3 align="center">I'm a 22-year-old creative with a passion for Technology, Manual-Automation Test and Penetration tester. My specialties lie in Automation Selenium Web-Driver Framework Testing, Security Testing, Linux Kernel Development, SE Grid, and Web Development. I'm driven by my desire to craft visually pleasing yet functional experiences for users, combining technical know-how with artistic flair about the testing world, lastly to become -HW</h3>
 <img align="right" alt="Coding" width="400" src="n-slim.jpg">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayan-hw&label=Profile%20views&color=0e75b6&style=flat" alt="narayan-hw" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shiv_npatil" target="blank"><img src="https://img.shields.io/twitter/follow/shiv_npatil?logo=twitter&style=for-the-badge" alt="shiv_npatil" /></a> </p>
@@ -27,11 +28,6 @@
 -  4 💬 Instagram :  <a href="https://instagram.com/narayan_official01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narayan_official01" height="40" width="150" /></a>
 </p>
 
-###
-
-<img align="right" height="300" width="300" src="https://media.tenor.com/wLv-ekPYn7UAAAAd/luffy-zoro.gif"  />
-
-###
 
 
 <h3 align="left">Languages and Tools:</h3>
